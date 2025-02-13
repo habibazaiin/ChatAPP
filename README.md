@@ -1,1 +1,1 @@
-# ChatAPP
+a desktop-based message application that allows users to send, receive, and manage messages. The application should support individual and group messaging, with robust search and filter functionality. Using ADO.net
